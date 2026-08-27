@@ -34,7 +34,7 @@
 ---
 
 ## 👨‍💻 Developer
-Developed with ❤️ by **RajCode**.
+Developed with ❤️ by **[RajCode](https://rajcode.netlify.app/)**.
 
 ---
 
